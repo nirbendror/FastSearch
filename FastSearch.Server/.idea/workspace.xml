@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="085634d8-e461-444d-b8ed-f5a0da61c800" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FastSearch.Server" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="HTTP Request" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzBAbzw0wJgwSdIv1YKHfgPCYz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hit.authentication" />
+      <recent name="com.hit.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\StudyProjects\InternetTechnologies1\FinalProject\FastSearch.Server\src\com\hit\view\resources" />
+      <recent name="C:\StudyProjects\InternetTechnologies1\FinalProject\FastSearch.Server\src\com\hit\view\libs" />
+      <recent name="C:\StudyProjects\InternetTechnologies1\FinalProject\FastSearchApp\resources" />
+      <recent name="C:\StudyProjects\InternetTechnologies1\FinalProject\SearchService" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hit.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\StudyProjects\InternetTechnologies1\FinalProject\FastSearch.Server\resources" />
+      <recent name="C:\StudyProjects\InternetTechnologies1\FinalProject\FastSearchApp\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DaoFileImplTest">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hit.util.Driver" />
+      <module name="FastSearchApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hit.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.hit.authentication.AuthDriver" />
+      <module name="FastSearchApp" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hit.view.mainview" />
+      <module name="FastSearchApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hit.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FastSearchApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hit.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hit.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.Test.AuthenticationUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoFileImplTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="FastSearchApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hit.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hit.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.Test.DaoFileImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hit in FastSearchApp" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="FastSearchApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hit" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hit.Test in FastSearchApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FastSearchApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hit.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hit.Test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="junit-jupiter-5.5.2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/junit-jupiter-5.5.2.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.mainview" />
+      <item itemvalue="JAR Application.junit-jupiter-5.5.2.jar" />
+      <item itemvalue="JUnit.com.hit in FastSearchApp" />
+      <item itemvalue="JUnit.DaoFileImplTest" />
+      <item itemvalue="JUnit.AuthenticationUnitTest" />
+      <item itemvalue="JUnit.com.hit.Test in FastSearchApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="JUnit.com.hit.Test in FastSearchApp" />
+        <item itemvalue="Application.mainview" />
+        <item itemvalue="JUnit.AuthenticationUnitTest" />
+        <item itemvalue="JAR Application.junit-jupiter-5.5.2.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\roman\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="085634d8-e461-444d-b8ed-f5a0da61c800" name="Default Changelist" comment="" />
+      <created>1579091419030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579091419030</updated>
+      <workItem from="1579091422808" duration="3848000" />
+      <workItem from="1579262093949" duration="678000" />
+      <workItem from="1579263082355" duration="1350000" />
+      <workItem from="1579264943368" duration="13716000" />
+      <workItem from="1579356496053" duration="4468000" />
+      <workItem from="1579544831078" duration="71000" />
+      <workItem from="1579545001022" duration="140000" />
+      <workItem from="1579546040464" duration="512000" />
+      <workItem from="1579772248860" duration="2495000" />
+      <workItem from="1579946835837" duration="554000" />
+      <workItem from="1579947637584" duration="15957000" />
+      <workItem from="1580142401708" duration="7037000" />
+      <workItem from="1580549746283" duration="10186000" />
+      <workItem from="1583066194847" duration="1355000" />
+      <workItem from="1583073059067" duration="2665000" />
+      <workItem from="1583404426404" duration="33000" />
+      <workItem from="1583404536268" duration="4106000" />
+      <workItem from="1583409010722" duration="45000" />
+      <workItem from="1583409633471" duration="2995000" />
+      <workItem from="1583482123302" duration="65000" />
+      <workItem from="1583483145231" duration="1183000" />
+      <workItem from="1583487501078" duration="6198000" />
+      <workItem from="1583523332099" duration="16155000" />
+      <workItem from="1583610311247" duration="5572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="882" y="191" key="#DaoFileImplTest" timestamp="1583578447348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="882" y="191" key="#DaoFileImplTest/0.0.1920.1040@0.0.1920.1040" timestamp="1583578447348" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580146338249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580146338249" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1583578135580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583578135580" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/3840.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583489594847" />
+    <state x="674" y="434" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580146327084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="434" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580146327084" />
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583404440658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583404440658" />
+    <state width="424" height="466" key="DebuggerActiveHint" timestamp="1583530254517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="424" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1583530254517" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1583618228331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583618228331" />
+    <state x="740" y="276" key="FileChooserDialogImpl/3840.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583490477399" />
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom" timestamp="1583620728231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583620728231" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/3840.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583494558638" />
+    <state width="1877" height="368" key="GridCell.Tab.0.center" timestamp="1583620728231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583620728231" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/3840.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583494558638" />
+    <state width="1877" height="368" key="GridCell.Tab.0.left" timestamp="1583620728231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583620728231" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/3840.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583494558638" />
+    <state width="1877" height="368" key="GridCell.Tab.0.right" timestamp="1583620728231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583620728231" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/3840.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583494558638" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1583610177388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583610177388" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1583610177387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583610177387" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1583610177387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583610177387" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1583610177387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583610177387" />
+    <state x="622" y="474" key="com.intellij.ide.util.TipDialog" timestamp="1583610327274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="474" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583610327274" />
+    <state x="731" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580146765640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580146765640" />
+    <state x="342" y="141" key="new project wizard" timestamp="1583409045886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583409045886" />
+    <state x="1124" y="244" key="run.anything.popup" timestamp="1583527299379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1124" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583527299379" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580551992440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580551992440" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hit/Test/DaoFileImplTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hit/dm/searchItem.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hit/service/Controller.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hit/service/SearchService.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FastSearch_Server$Driver.ic" NAME="Driver Coverage Results" MODIFIED="1583527253465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hit.util.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FastSearchApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
